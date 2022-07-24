@@ -1,0 +1,12 @@
+{
+    "Audio format": "ogg",
+    "Video format": "webm",
+    "Autoplay (front)": true,
+    "Autoplay (back)": true,
+    "Loop": true,
+    "Mute": false,
+    "Height": -1,
+    "Width": -1,
+    "Audio shortcut": "Ctrl+Alt+F1",
+    "Video shortcut": "Ctrl+Alt+F2"
+}
